@@ -1,5 +1,7 @@
 Wii Save Seeder + Wii Savegames Builder
 
+<img width="128" height="48" alt="icon" src="https://github.com/user-attachments/assets/f6c6e46a-e8f5-4644-9400-e0f44b2c66ba" />
+
 OVERVIEW
 
 This repository contains two related utilities for moving Wii save data from Dolphin or Wii System Menu data.bin exports onto a real Wii:
