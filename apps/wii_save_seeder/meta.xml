@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<app version="1">
+    <name>Wii Save Seeder</name>
+    <coder>OpenAI / user project</coder>
+    <version>0.8</version>
+    <release_date>20260918</release_date>
+    <short_description>Seed missing Wii saves into real NAND</short_description>
+    <long_description>
+Installs a SaveGame Manager GX extracted disc-game save into real Wii NAND
+without requiring the game to be launched once first. Backs up uid.sys,
+creates a missing disc-title UID, creates the save directory with the correct
+owner UID, then copies the save files. Refuses to overwrite an existing save.
+    </long_description>
+    <ahb_access/>
+</app>
